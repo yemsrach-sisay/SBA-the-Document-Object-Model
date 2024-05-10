@@ -1,0 +1,15 @@
+.task {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.task.completed {
+  background-color: #dff0d8;
+}
+.task input[type="checkbox"] {
+  margin-right: 5px;
+}
+.error-message {
+  color: red;
+}
